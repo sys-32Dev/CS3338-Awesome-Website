@@ -1,0 +1,58 @@
+commit 24ba5da6ef716426ae4f370cd12bafacb159c0b2
+Merge: bd2e1d1 4f9322e
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:55:01 2026 -0800
+
+    fix merge conflict
+
+commit 4f9322e318a5ed887838f4ce796f27193a35f488
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:51:30 2026 -0800
+
+    add favorite game
+
+commit bd2e1d1284457bd6a75c0b0d1bf020bb539ab06b
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:49:21 2026 -0800
+
+    add food
+
+commit 3fcacc3ce0676dfa12b309542254d99daa2358fb
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:44:49 2026 -0800
+
+    fix README.md
+
+commit f0c91f313c70178cbda337feb75ad0fb8236dd5a
+Merge: f7afb24 1a56b9d
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:43:06 2026 -0800
+
+    Merge branch 'main' of github.com:sys-32Dev/CS3338-Awesome-Website
+
+commit f7afb24715a4ca0454db1788333d002218a506c6
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:42:00 2026 -0800
+
+    add README.md
+
+commit 1a56b9d2221fac2c69b0ceeff6564d2beff8cdb6
+Merge: 1d2bfc0 a8f0767
+Author: system32 <gamer1912real@gmail.com>
+Date:   Fri Jan 30 10:40:15 2026 -0800
+
+    Merge pull request #1 from sys-32Dev/info-fill
+    
+    added info
+
+commit a8f07678938a03e6bad4487b25706908ad03cfeb
+Author: System32 <sys32real@gmail.com>
+Date:   Fri Jan 30 10:37:10 2026 -0800
+
+    added info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
